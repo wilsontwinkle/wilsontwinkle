@@ -1,6 +1,6 @@
 Hello, world 👋
 
-My name is Twinkle and I'm a computer science major with a need for structure and wanting to push me to learn new things. 
+My name is Twinkle and I'm a computer science major with a need for structure and wanting to push me to learn new things!  
 <!--
 **wilsontwinkle/wilsontwinkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
